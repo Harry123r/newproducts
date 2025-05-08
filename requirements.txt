@@ -9,10 +9,12 @@ djangorestframework==3.16.0
 djangorestframework_simplejwt==5.5.0
 drf-spectacular==0.28.0
 gprof2dot==2025.4.14
+gunicorn==23.0.0
 inflection==0.5.1
 jsonschema==4.23.0
 jsonschema-specifications==2025.4.1
 mysqlclient==2.2.7
+packaging==25.0
 pillow==11.2.1
 pycodestyle==2.13.0
 PyJWT==2.9.0
