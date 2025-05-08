@@ -1,0 +1,3 @@
+filtering, pagination, browsable api
+
+request, responses, content negotiation
